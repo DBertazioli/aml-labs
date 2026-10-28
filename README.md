@@ -13,4 +13,5 @@ The lectures use Keras. Every notebook comes in a Keras and a PyTorch version. T
 ## Layout
 
 - `lab1/`: Lab 1 (optimization): README, notebooks, competition data, 3D optimizer demo.
+- `solutions/`: solutions of each lab, published after the lab.
 - `client/aml_client.py`: small client for the class server, downloaded by the notebooks.

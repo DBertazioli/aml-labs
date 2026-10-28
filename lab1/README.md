@@ -38,3 +38,10 @@ Rules:
 - Unlimited submissions (at most one every 20 seconds, counted separately for each leaderboard).
 - Any MLP: Dense layers, any activation, BatchNorm and Dropout are allowed; no convolutions or other model types.
 - The score you see uses half of the test set. The final ranking uses, for each student, the submission with the best visible score, scored on the hidden half.
+
+## Solutions
+
+| Notebook | Keras | PyTorch |
+|---|---|---|
+| 1. Framework basics, toy data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DBertazioli/aml-labs/blob/main/solutions/lab1/1_toy_keras_solutions.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DBertazioli/aml-labs/blob/main/solutions/lab1/1_toy_pytorch_solutions.ipynb) |
+| 2. Competition: a few submissions, each better than the last | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DBertazioli/aml-labs/blob/main/solutions/lab1/2_competition_keras_solutions.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DBertazioli/aml-labs/blob/main/solutions/lab1/2_competition_pytorch_solutions.ipynb) |
